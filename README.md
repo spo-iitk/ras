@@ -193,11 +193,11 @@ Will be updated soon!
 [contributors-shield]: https://img.shields.io/github/contributors/spo-iitk/ras-backend.svg?style=for-the-badge
 [contributors-url]: https://github.com/spo-iitk/ras-backend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/spo-iitk/ras-backend.svg?style=for-the-badge
-[forks-url]: https://github.com/spo-iitk/ras-backend/network/members
+[forks-url]: https://github.com/spo-iitk/ras/network/members
 [stars-shield]: https://img.shields.io/github/stars/spo-iitk/ras-backend.svg?style=for-the-badge
 [stars-url]: https://github.com/spo-iitk/ras-backend/stargazers
 [issues-shield]: https://img.shields.io/github/issues/spo-iitk/ras-backend.svg?style=for-the-badge
-[issues-url]: https://github.com/spo-iitk/ras-backend/issues
+[issues-url]: https://github.com/spo-iitk/ras/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iitkanpurplacement
 [golang]: https://img.shields.io/github/go-mod/go-version/spo-iitk/ras-backend?style=for-the-badge
