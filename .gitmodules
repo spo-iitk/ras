@@ -1,0 +1,6 @@
+[submodule "ras-backend"]
+	path = ras-backend
+	url = https://github.com/spo-iitk/ras-backend
+[submodule "ras-frontend"]
+	path = ras-frontend
+	url = https://github.com/spo-iitk/ras-frontend
