@@ -35,16 +35,16 @@
   <h3 align="center">Recruitment Automation System</h3>
 
   <p align="center">
-    Backend for Recruitment Automation System
+    Recruitment Automation System
     <br />
     <a href="https://placement.iitk.ac.in/"><strong>Visit the Portal »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/spo-iitk/ras-backend">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/spo-iitk/ras-backend/issues">Report Bug</a>
+    <a href="https://github.com/spo-iitk/ras/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/spo-iitk/ras-backend/issues">Request Feature</a>
+    <a href="https://github.com/spo-iitk/ras/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BRequest%5D">Request Feature</a>
   </p>
 </div>
 
@@ -114,47 +114,6 @@ Built with love :heart: by a team led by four shophomores- [credits](https://pla
 - [![Gorm][gorm]][gorm-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- Google Clould Credentials and google calender ID
-- Mail server credentials
-- Database setup and credentials (refer `container/init.sql`)
-- Go (refer [go installation](https://golang.org/doc/install))
-
-### Installation
-
-1. Provision all required credentials and database
-2. Clone the repo
-   ```sh
-   git clone https://github.com/spo-iitk/ras-backend.git
-   ```
-3. cp `secret.yml.template` to `secret.yml` and fill in the required credentials
-4. Save GCP credentials as `secret.GCPcredentials.json`
-5. Install go dependencies
-   ```sh
-   go mod download
-   ```
-6. Build the project
-   ```sh
-   go build ./cmd/. -o ras-backend
-   ```
-7. Run the project
-   ```sh
-   ./ras-backend
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Usage
 
 Please refer to the [Documentation](#). (Still under construction)
@@ -170,8 +129,6 @@ Please refer to the [Documentation](#). (Still under construction)
 - [ ] Add tests
 - [ ] Cache & Pagination
 - [ ] Add Changelog
-
-See the [open issues](https://github.com/spo-iitk/ras-backend/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
