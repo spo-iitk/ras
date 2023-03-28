@@ -4,3 +4,6 @@
 [submodule "ras-frontend"]
 	path = ras-frontend
 	url = https://github.com/spo-iitk/ras-frontend
+[submodule "ras-cdn"]
+	path = ras-cdn
+	url = https://github.com/spo-iitk/ras-cdn
